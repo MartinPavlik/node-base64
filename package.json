@@ -1,0 +1,30 @@
+{
+  "name": "node-base64",
+  "version": "0.0.1",
+  "description": "Implementation of btoa and atob for node js",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MartinPavlik/node-base64.git"
+  },
+  "keywords": [
+    "base64",
+    "node",
+    "encode",
+    "decode",
+    "btoa",
+    "atob"
+  ],
+  "author": "Martin Pavlik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MartinPavlik/node-base64/issues"
+  },
+  "homepage": "https://github.com/MartinPavlik/node-base64#readme",
+  "devDependencies": {
+    "jest": "^25.1.0"
+  }
+}
